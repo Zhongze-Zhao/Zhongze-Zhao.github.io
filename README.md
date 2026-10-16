@@ -4,12 +4,12 @@ A responsive, English-language academic portfolio built with plain HTML, CSS, an
 
 ## Live site URL
 
-After publishing: **https://zzz84402816-lab.github.io/**
+After publishing: **https://Zhongze-Zhao.github.io/**
 
 ## Publish to GitHub Pages
 
 1. Log in to GitHub as `zzz84402816-lab`.
-2. Create a **public** repository named **`zzz84402816-lab.github.io`** (exact spelling). Do not initialize it with a README if you plan to push this folder using the commands below.
+2. Create a **public** repository named **`Zhongze-Zhao.github.io`** (exact spelling). Do not initialize it with a README if you plan to push this folder using the commands below.
 3. In a terminal, navigate to this extracted folder and run:
 
    ```bash
@@ -23,7 +23,7 @@ After publishing: **https://zzz84402816-lab.github.io/**
 
    You will need Git installed and GitHub authentication configured. Alternatively, use GitHub's **Add file → Upload files** feature to upload the **contents** of this folder (including `index.html` at the repository root).
 4. In your repository, open **Settings → Pages**. Under **Build and deployment**, select **Deploy from a branch**, choose `main` and `/(root)`, then save.
-5. Open **https://zzz84402816-lab.github.io/** after the deployment completes. It may take several minutes.
+5. Open **https://Zhongze-Zhao.github.io/** after the deployment completes. It may take several minutes.
 
 ## Preview locally
 
